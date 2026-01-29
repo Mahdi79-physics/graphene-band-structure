@@ -21,6 +21,13 @@ This code reproduces the key features of graphene’s electronic structure:
 - Full **3D band structure**
 - **2D energy contour** of the conduction band  
 
+<img src="figures/2d.png" width="600"/>
+<img src="figures/3d.png" width="600"/>
+<img src="figures/conduction-valence.png" width="600"/>
+<img src="figures/symmetry.png" width="600"/>
+
+
+
 (Generated figures can be saved in the `figures/` directory.)
 
 ---
